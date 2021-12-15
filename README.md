@@ -8,11 +8,11 @@
 * [Report](#report)
 
 ## General info
-This is Imburse Rest API automation Test project to create automation tests against our Order and Instruction management REST API.
+This is Imburse Rest API automation Test project to create automation tests against Order and Instruction management REST API.
 	
 ## Technologies
 Project is created with:
-* Java RestAsure
+* Java RestAssure
 * Maven
 * BDD Framework
 
